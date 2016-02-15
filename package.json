@@ -1,6 +1,6 @@
 {
   "name": "split-space",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Split a string by space and ignore space in quoted string.",
   "license": "MIT",
   "repository": "egoist/split-space",
